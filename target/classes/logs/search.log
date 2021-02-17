@@ -1,0 +1,16 @@
+2020-11-02 16:14:59.825 [main] INFO  FilesWalkFileTree - Пользователь искал : C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\DirectorySizeCounter\src\main\data
+2020-11-02 16:15:04.361 [main] INFO  FilesWalkFileTree - Пользователь искал : 09_FilesAndNetwork/DirectorySizeCounter/logs
+2020-11-02 16:15:11.213 [main] INFO  FilesWalkFileTree - Пользователь искал : C:\Users\kupag\Desktop
+2020-11-02 16:15:15.839 [main] INFO  FilesWalkFileTree - Пользователь искал : @
+2020-11-02 16:15:17.831 [main] INFO  FilesWalkFileTree - Пользователь искал : FDSf
+2020-11-02 17:13:49.883 [main] INFO  Main - Пользователь искал : @
+2020-11-02 17:13:54.619 [main] INFO  Main - Пользователь искал : @
+2020-11-02 17:13:57.082 [main] INFO  Main - Пользователь искал : "
+2020-11-02 17:14:06.527 [main] INFO  Main - Пользователь искал : C:\Users\kupag\Desktop
+2020-11-02 17:19:25.594 [main] INFO  Main - Пользователь искал : @
+2020-11-02 17:19:48.096 [main] INFO  Main - Пользователь искал : @
+2020-11-02 17:19:49.974 [main] INFO  Main - Пользователь искал : 
+2020-11-02 17:20:23.554 [main] INFO  Main - Пользователь искал : C:\Users\kupag\Desktop
+2020-11-02 22:02:59.537 [main] INFO  FilesWalkFileTree - Пользователь искал : C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\DirectorySizeCounter\src\main\data
+2020-11-03 15:33:54.657 [main] INFO  Main - Пользователь искал : C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\FoulderCopy\data
+2020-11-11 13:53:21.417 [main] INFO  FilesWalkFileTree - Пользователь искал : C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\DirectorySizeCounter\src\main\resources\data
